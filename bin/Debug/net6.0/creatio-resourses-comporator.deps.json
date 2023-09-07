@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "creatio-resourses-comporator/1.0.0": {
+        "runtime": {
+          "creatio-resourses-comporator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "creatio-resourses-comporator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

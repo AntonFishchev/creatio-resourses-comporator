@@ -1,0 +1,15 @@
+D:\Project\creatio-resourses-comporator\bin\Debug\net6.0\creatio-resourses-comporator.exe
+D:\Project\creatio-resourses-comporator\bin\Debug\net6.0\creatio-resourses-comporator.deps.json
+D:\Project\creatio-resourses-comporator\bin\Debug\net6.0\creatio-resourses-comporator.runtimeconfig.json
+D:\Project\creatio-resourses-comporator\bin\Debug\net6.0\creatio-resourses-comporator.dll
+D:\Project\creatio-resourses-comporator\bin\Debug\net6.0\creatio-resourses-comporator.pdb
+D:\Project\creatio-resourses-comporator\obj\Debug\net6.0\creatio-resourses-comporator.csproj.AssemblyReference.cache
+D:\Project\creatio-resourses-comporator\obj\Debug\net6.0\creatio-resourses-comporator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\creatio-resourses-comporator\obj\Debug\net6.0\creatio-resourses-comporator.AssemblyInfoInputs.cache
+D:\Project\creatio-resourses-comporator\obj\Debug\net6.0\creatio-resourses-comporator.AssemblyInfo.cs
+D:\Project\creatio-resourses-comporator\obj\Debug\net6.0\creatio-resourses-comporator.csproj.CoreCompileInputs.cache
+D:\Project\creatio-resourses-comporator\obj\Debug\net6.0\creatio-resourses-comporator.dll
+D:\Project\creatio-resourses-comporator\obj\Debug\net6.0\refint\creatio-resourses-comporator.dll
+D:\Project\creatio-resourses-comporator\obj\Debug\net6.0\creatio-resourses-comporator.pdb
+D:\Project\creatio-resourses-comporator\obj\Debug\net6.0\creatio-resourses-comporator.genruntimeconfig.cache
+D:\Project\creatio-resourses-comporator\obj\Debug\net6.0\ref\creatio-resourses-comporator.dll
